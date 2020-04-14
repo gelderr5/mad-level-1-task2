@@ -1,4 +1,4 @@
-package com.example.truthtableforconjunction
+package com.example.madlevel1task2
 
 import org.junit.Test
 
