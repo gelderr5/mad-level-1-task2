@@ -1,0 +1,2 @@
+rootProject.name='Truth Table for Conjunction'
+include ':app'
